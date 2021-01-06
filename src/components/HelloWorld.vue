@@ -1,11 +1,16 @@
 <template>
   <div class="hello">
-	iiĞ¡Ã×µçÊÓÊÇ
+	ä¹°æ‰‹æœºå°±ä¹°
+	<hr/>
+	iphone
+	<mian></mian>
   </div>
 </template>
 
 <script>
+import mian from "./mian"
 export default {
+components:{mian},
   name: 'HelloWorld',
   data () {
     return {
