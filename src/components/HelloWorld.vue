@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-	这是一个悲伤的故事
+	ii小米电视是
   </div>
 </template>
 
